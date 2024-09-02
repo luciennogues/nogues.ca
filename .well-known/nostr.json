@@ -1,17 +1,5 @@
 {
     "names": {
         "lucien": "6e1897660c62153be7355a82a62549b09993fb12b50de73a32610725d1a5de6b"
-    }
-  "relays": {
-    "6e1897660c62153be7355a82a62549b09993fb12b50de73a32610725d1a5de6b": [
-      "wss://relay.damus.io/",
-      "wss://nostr.mom/",
-      "wss://nos.lol/",
-      "wss://nostr.bitcoiner.social/",
-      "wss://purplepag.es/",
-      "wss://eden.nostr.land/",
-      "wss://relay.nostr.band/",
-      "wss://nostr.inosta.cc/"
-    ]
   }
 }
