@@ -9,10 +9,10 @@
 IndexOptions IgnoreCase FoldersFirst SuppressHTMLPreamble
 
 # SPECIFY HEADER FILE
-HeaderName /.header.html
+#HeaderName /.header.html
 
 # SPECIFY FOOTER FILE
-ReadmeName /.footer.html
+#ReadmeName /.footer.html
 
 # IGNORE THESE FILES
 IndexIgnore header.html footer.html favicon.ico .htaccess .ftpquota .DS_Store icons .log ,v ,t .?? ~ #
