@@ -4,7 +4,7 @@
        "famille": "fe0f7fc4e8963d24790802c66e757099c037d4aaa2d86176892c04f0f568157b"
     },
     "relays": {
-      "715dc06230d7c6aa62b044a8a764728ae6862eb100f1800ef91d5cc9f972dc55": [
+      "6e1897660c62153be7355a82a62549b09993fb12b50de73a32610725d1a5de6b": [
         "wss://relay.nostr.net",
         "wss://relay.nostr.band",
         "wss://relay.primal.net/",
