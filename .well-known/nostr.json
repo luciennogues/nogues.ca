@@ -11,16 +11,4 @@
         "wss://relay.damus.io"
       ]
     }
-"display_names": {
-    "famille": "Famille Noguès"
-  },
-  "about": {
-    "famille": "Communauté privée familiale sur Nostr"
-  },
-  "banner": {
-    "famille": ""
-  },
-  "picture": {
-    "famille": ""
-  } 
 }
