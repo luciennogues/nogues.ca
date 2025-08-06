@@ -2,4 +2,4 @@
    Header set Access-Control-Allow-Origin "*"
  </IfModule>
 
-Redirect 302 /.well-known/lnurlp/oldestxenon29 https://walletofsatoshi.com/.well-known/lnurlp/oldestxenon29
+Redirect 302 /.well-known/lnurlp/lucien https://walletofsatoshi.com/.well-known/lnurlp/oldestxenon29
