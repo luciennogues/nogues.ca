@@ -8,8 +8,7 @@
         "wss://relay.nostr.net",
         "wss://relay.nostr.band",
         "wss://relay.primal.net",
-        "wss://relay.damus.io",
-        "wss://nostr.wine",
+        "wss://relay.damus.io"
       ]
     }
 }
