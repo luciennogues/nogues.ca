@@ -7,8 +7,9 @@
       "6e1897660c62153be7355a82a62549b09993fb12b50de73a32610725d1a5de6b": [
         "wss://relay.nostr.net",
         "wss://relay.nostr.band",
-        "wss://relay.primal.net/",
-        "wss://relay.damus.io"
+        "wss://relay.primal.net",
+        "wss://relay.damus.io",
+        "wss://nostr.wine",
       ]
     }
 }
